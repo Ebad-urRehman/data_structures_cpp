@@ -1,3 +1,4 @@
+//SElection sort method 1
 //select one element compare to all elements
 //Selection sort using for loop
 #include <iostream>

@@ -1,4 +1,5 @@
 //binary search alogithm
+//not quite right now
 #include <iostream>
 using namespace std;
 void binary_search(int n, int arr[],int x)

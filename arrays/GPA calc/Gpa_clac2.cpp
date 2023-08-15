@@ -59,7 +59,7 @@ void find_avg(float arr_marks[], float arr_total_marks[],float arr_avg_marks[], 
 {
     for (int i = 0; i < n; i++)
     {
-        arr_avg_marks[i]=static_cast<float>(arr_marks[i]/arr_total_marks[i])*100;
+        arr_avg_marks[i]=(arr_marks[i]/arr_total_marks[i])*100;
     }
 }
 

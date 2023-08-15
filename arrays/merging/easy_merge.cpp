@@ -1,3 +1,4 @@
+//This is a simple merge program which merge two arrays without sorting
 #include <iostream>
 using namespace std;
 void merge_arr(int n1, int arr1[], int n2, int arr2[],int arr3[])

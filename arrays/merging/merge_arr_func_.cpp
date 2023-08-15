@@ -1,3 +1,5 @@
+//This is merge and sort program with functions defined 
+//Not working for any reason
 #include <iostream>
 using namespace std;
 const int CAPACITY = 50;

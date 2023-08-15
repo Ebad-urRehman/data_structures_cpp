@@ -1,3 +1,4 @@
+//this program do merge and sort at same time
 #include <iostream>
 using namespace std;
 
